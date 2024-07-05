@@ -12,4 +12,6 @@ Overtalk supports the following URL params.
 | name       | Adds a default name for the user. | string |
 | alwaysTalk | Enables the microphone by default | "true" |
 
-For any questions, please contact hello@overtalk.io
+For any questions, please contact hello@overtalk.io.
+
+[Demo link](https://vasanthv.github.io/overtalk-embed/)
