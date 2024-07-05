@@ -2,7 +2,7 @@
 Overtalk walkie-talkie app can be embedded in any webpage using iFrame as shown below.
 
 ```
-<iframe src="https://overtalk.io/embed" allow=" microphone;" seamless width="320" height="640"></iframe>
+<iframe src="https://overtalk.io/your-channel-here" allow=" microphone;" seamless width="320" height="640"></iframe>
 ```
 
 Overtalk supports the following URL params.
